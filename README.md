@@ -6,6 +6,7 @@
 ![Python](https://img.shields.io/badge/-Python-4169E1?style=for-the-badge&logoPython&logoColor=EB4C42)
 ![Postman](https://img.shields.io/badge/-Postman-4169E1?style=for-the-badge&logo=Postman&logoColor=9457EB)
 ![SQL](https://img.shields.io/badge/-SQL-4169E1?style=for-the-badge&logo=SQL&logoColor=006262)
+![Cypress](https://img.shields.io/badge/-Cypress-4169E1?style=for-the-badge&logo=Cypress&logoColor=50C878)
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-4169E1?style=for-the-badge&logo=Telegram&logoColor=004242)](https://t.me//viktorych1989)
