@@ -11,6 +11,8 @@
 ### My materials
 [![Googledisk](https://img.shields.io/badge/-Googledisk-4169E1?style=for-the-badge&logo=CypressGoogledisk&logoColor=50C878)](https://drive.google.com/drive/folders/1P-BFEE2ImmjCpTlanIiVVhdyWhdCqMv0?usp=share_link)
 
+### Rezyume
+[![HeadHunter](https://img.shields.io/badge/-HH-4169E1?style=for-the-badge&logoHeadHunter&logoColor=EB4C42)](https://hh.ru/resume/8971e179ff0b7de5650039ed1f31726b386450)
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-4169E1?style=for-the-badge&logo=Telegram&logoColor=004242)](https://t.me//viktorych1989)
 [![VK](https://img.shields.io/badge/-VK-4169E1?style=for-the-badge&logo=VK&logoColor=1B00EB)](https://vk.com/viktorych1989)
