@@ -1,9 +1,15 @@
-### Hi there 👋
+Я тестировщик
+Моё резюме https://docs.google.com/document/d/1hsXdUezm_aREnrCzUGXMwASA7jjINzIu/edit?usp=share_link&ouid=113001744804596554091&rtpof=true&sd=true
+### Моя документация по тестированию:
+Тест-кейсы  (https://docs.google.com/spreadsheets/d/1QqX2YxDYIdfX4zg2oC9CtW6drNC0M1DX/edit?usp=share_link&ouid=113001744804596554091&rtpof=true&sd=true)
+Баг-репор(https://docs.google.com/spreadsheets/d/1QqX2YxDYIdfX4zg2oC9CtW6drNC0M1DX/edit?usp=share_link&ouid=113001744804596554091&rtpof=true&sd=true)
+Итоговое задание  (https://docs.google.com/document/d/14m34YnbRmQZyQIn2c_YvDiS95aMMiXQuWfi25g-zSq4/edit?usp=share_link)
+###  Подписывайтесь на меня
+![telega](https://user-images.githubusercontent.com/112071312/207003999-c6171366-4e69-46e6-809d-5585de165e03.svg)  https://t.me/viktorych1989
+VK  https://vk.com/viktorych1989
 
-<!--
-**andreibochkov1989/andreibochkov1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![telega](https://user-images.githubusercontent.com/112071312/207003228-a36429a6-5275-437b-a970-f918499991f3.svg)
