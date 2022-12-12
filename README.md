@@ -7,6 +7,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-4169E1?style=for-the-badge&logo=Postman&logoColor=9457EB)
 ![SQL](https://img.shields.io/badge/-SQL-4169E1?style=for-the-badge&logo=SQL&logoColor=006262)
 ![Cypress](https://img.shields.io/badge/-Cypress-4169E1?style=for-the-badge&logo=Cypress&logoColor=50C878)
+![GitHub](https://img.shields.io/badge/-GitHub-4169E1?style=for-the-badge&logo=GitHub&logoColor=8DA399)
+![Adroidstudio](https://img.shields.io/badge/-Androidstudio-4169E1?style=for-the-badge&logo=Androidstudio&logoColor=A36718)
 
 ### My materials
 [![Googledisk](https://img.shields.io/badge/-Googledisk-4169E1?style=for-the-badge&logo=CypressGoogledisk&logoColor=50C878)](https://drive.google.com/drive/folders/1P-BFEE2ImmjCpTlanIiVVhdyWhdCqMv0?usp=share_link)
