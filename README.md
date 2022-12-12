@@ -11,9 +11,9 @@
 ![Adroidstudio](https://img.shields.io/badge/-Androidstudio-4169E1?style=for-the-badge&logo=Androidstudio&logoColor=A36718)
 
 ### Testing documentation
-[![Test-case](https://img.shields.io/badge/-Test-case-4169E1?style=for-the-badge&logo=Test-case&logoColor=50C878)](https://docs.google.com/spreadsheets/d/1QqX2YxDYIdfX4zg2oC9CtW6drNC0M1DX/edit?usp=share_link&ouid=113001744804596554091&rtpof=true&sd=true)
-[!Bug-reports](https://img.shields.io/badge/-Bug-reports-4169E1?style=for-the-badge&logo=Bug-reports&logoColor=6E7F80)](https://docs.google.com/spreadsheets/d/1IDqMXe--ewkjNxQuCch5kZq0f64b63ww/edit?usp=share_link&ouid=113001744804596554091&rtpof=true&sd=true)
-[!Attestation](https://img.shields.io/badge/-Attestation work-4169E1?style=for-the-badge&logo=Attestation work&logoColor=F0EAD6)](https://docs.google.com/spreadsheets/d/1IDqMXe--ewkjNxQuCch5kZq0f64b63ww/edit?usp=share_link&ouid=113001744804596554091&rtpof=true&sd=true)
+- [Test-case](https://img.shields.io/badge/-Test-case-4169E1?style=for-the-badge&logo=Test-case&logoColor=50C878)](https://docs.google.com/spreadsheets/d/1QqX2YxDYIdfX4zg2oC9CtW6drNC0M1DX/edit?usp=share_link&ouid=113001744804596554091&rtpof=true&sd=true)
+- [Bug-reports](https://img.shields.io/badge/-Bug-reports-4169E1?style=for-the-badge&logo=Bug-reports&logoColor=6E7F80)](https://docs.google.com/spreadsheets/d/1IDqMXe--ewkjNxQuCch5kZq0f64b63ww/edit?usp=share_link&ouid=113001744804596554091&rtpof=true&sd=true)
+- [Attestation](https://img.shields.io/badge/-Attestation work-4169E1?style=for-the-badge&logo=Attestation work&logoColor=F0EAD6)](https://docs.google.com/spreadsheets/d/1IDqMXe--ewkjNxQuCch5kZq0f64b63ww/edit?usp=share_link&ouid=113001744804596554091&rtpof=true&sd=true)
 
 ### Rezyume
 [![Googledisk](https://img.shields.io/badge/-HH-4169E1?style=for-the-badge&logoHeadHunter&logoColor=EB4C42)](https://docs.google.com/document/d/1hsXdUezm_aREnrCzUGXMwASA7jjINzIu/edit?usp=share_link&ouid=113001744804596554091&rtpof=true&sd=true)
